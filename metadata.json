@@ -1,0 +1,5 @@
+{
+  "name": "Burmese Info Search Bot",
+  "description": "A Telegram bot that searches for accurate information and social media links, responding in Burmese.",
+  "requestFramePermissions": []
+}
